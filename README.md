@@ -19,7 +19,7 @@
 ### 🛠️ Languages and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,mysql,git,github,vscode,Postgre" />
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,mysql,github,vscode,Postgre" />
 </p>
 
 ### 📊 GitHub Stats
