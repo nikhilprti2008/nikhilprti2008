@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/99/28/7f/99287fd5e0464453bafbd405b51e27c8.jpg" width="100%" />
+  <img src="https://i.pinimg.com/736x/d3/53/69/d353699c468062d3180d99f0e0a7a3e5.jpg" width="100%" />
 </p>
-
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">AI & ML Student | Aspiring Software Developer</h3>
@@ -10,16 +8,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;C%2B%2B+%7C+Python+Developer;Exploring+AI+%26+Data+Science" />
 </p>
-
 ---
 
 ### 👨‍💻 About Me
 - 🎓 B.Tech CSE (AI & ML)
 - 🌱 Currently learning Data Structures & Algorithms
 - 🤖 Interested in Machine Learning and AI
-- 💻 Working on real-world projects 
-- 🎯 Goal: Become a Software Engineer
-
 
 <h2 align="left">🔗 💻 Tech Stack</h2>
 
@@ -52,8 +46,6 @@
   <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-
-
 <h2 align="left">🌐 Connect With Me</h2>
 
 <p align="center">
@@ -74,13 +66,11 @@
   </a>
 </p>
 
-
 ### 📊 GitHub Stats
 
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilprti2008&theme=tokyonight" />
 </p>
-
 
 <h2 align="left">📈 Contribution Graph</h2>
 
