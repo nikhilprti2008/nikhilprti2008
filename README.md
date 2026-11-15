@@ -25,10 +25,6 @@
 ### 📊 GitHub Stats
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=nikhilprti2008&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilprti2008&theme=tokyonight" />
 </p>
 
