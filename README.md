@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/d7/0a/78/d70a78f5404dd92b8bafb4954e962b11.jpg" width="100%" />
+  <img src="https://i.pinimg.com/736x/2e/89/35/2e893541123b75b27bc15b4ee0b25653.jpg" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
@@ -70,19 +70,6 @@
 
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilprti2008&theme=tokyonight" />
-</p>
-
-<h2 align="left">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilprti2008&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
-
-<h2 align="left">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/nikhilprti2008" alt="Nikhil's GitHub Contribution Graph" width="100%"/>
 </p>
 
 
